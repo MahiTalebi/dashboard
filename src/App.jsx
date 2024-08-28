@@ -3,7 +3,7 @@ import "./App.css";
 import "./core/i18n";
 
 import { Login } from "./features/identity/components/Login/Login";
-import { Register } from "./features/identity/components/Login/Register";
+import { Register } from "./features/identity/components/Register/Register";
 import { router } from "./router";
 
 function App() {
