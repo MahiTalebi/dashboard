@@ -8,7 +8,7 @@ import { router } from "./router";
 
 function App() {
   return (
-    <div className="font-iranyekan" dir="rtl">
+    <div className="font-iranyekan">
       <RouterProvider router={router} />
     </div>
   );
